@@ -90,8 +90,10 @@ The proposed system is able to detect a seizure once unusual body movements are 
 
 #### Schematic & Circuit
 
-![Circuit](Add your circuit diagram here)
-*Circuit showing connections between ESP8266, MPU6050, LED, and buzzer*
+<img width="1422" height="1118" alt="image" src="https://github.com/user-attachments/assets/2ec1e102-4fc5-41c9-93a2-2a8a585bd24d" />
+<img width="1044" height="438" alt="image" src="https://github.com/user-attachments/assets/3d78c8d2-4104-4370-b757-1eef4e03b9e9" />
+
+
 
 ![Schematic diagram](https://github.com/user-attachments/assets/f312da68-43cb-483e-bd6b-9b7b4d00ce0a)
 
@@ -134,13 +136,9 @@ The proposed system is able to detect a seizure once unusual body movements are 
 
 ### Video
 
-
-
-## AI Tools Used (Optional)
-
 https://github.com/user-attachments/assets/3b5c7138-5a13-43fc-afef-4426a8995c78
 
-
+## AI Tools Used (Optional)
 
 **Tool Used:** ChatGPT
 
@@ -159,8 +157,8 @@ https://github.com/user-attachments/assets/3b5c7138-5a13-43fc-afef-4426a8995c78
 
 ## Team Contributions
 
-* [Your Name]: Hardware design, coding, integration
-* [Member Name]: Documentation, testing, Blynk dashboard setup
+* Joslin Elizabeth George: Hardware design, coding, integration
+* Meritta Elizabeth S: Documentation, testing, Blynk dashboard setup
 
 ---
 
